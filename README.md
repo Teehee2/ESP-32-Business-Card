@@ -1,5 +1,6 @@
 # ESP-32-Business-Card
 Personal Business Card with fully functional ESP-32 and NFC
+
 Latest version V0.2
 
 Friends with version V0.1: PLEASE TAKE NOTE!
