@@ -9,3 +9,6 @@ DO NOT USE CLIP POINT USB 5V! IT WILL SHORT TO GROUND!
 For DIY users:
 V0.1 is flawed with mixed up tx/rx traces! Enamel wires need to be flown to use ESP32!
 SW1 does not work with resistor R9, it is recommended to short the pads across R9.
+
+
+![ESP32 Business Card](businesscard.png?raw=true "ESP32 Business Card")
